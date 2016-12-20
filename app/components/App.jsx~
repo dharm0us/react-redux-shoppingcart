@@ -1,7 +1,7 @@
 
 import React, {Component} from 'react'
 import ProductsContainer from '../containers/products.jsx'
-import CartContainer from '../containers/shoppingCart.jsx'
+import ProductsContainer from '../containers/shoppingCart.jsx'
 export default class App extends React.Component {
 	render() {
 		return(
